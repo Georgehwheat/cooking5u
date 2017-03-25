@@ -7,3 +7,6 @@
      your background is light. */
   color: white;
 }
+.hero--home .hero__bg-container {
+  background-image: url('../images/noodle.jpg');
+}
