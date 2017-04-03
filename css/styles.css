@@ -1,3 +1,11 @@
+
+h1, h2, h3, h4, h5 {
+  font-family: 'Quando', serif;
+}
+p {
+
+font-family: 'Judson', serif;
+}
 .hero {
   background: url("../images/noodle.jpg") no-repeat center center;
   background-size: cover;
@@ -21,7 +29,9 @@
     line-height: 1.5em;
     letter-spacing: -0.025em;
     font-weight: 300;
-    text-align: center; }
+    text-align: center; 
+  }
+
   .hero p {
     color: #fff;
     line-height: 1.75em;
