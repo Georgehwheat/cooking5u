@@ -1,7 +1,7 @@
 .hero {
   background: url("../images/noodle.jpg") no-repeat center center;
   background-size: cover;
-  height: 100vh; }
+  height: 50vh; }
   .hero:before {
     content: '';
     position: absolute;
