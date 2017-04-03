@@ -35,7 +35,7 @@ font-family: 'Judson', serif;
     background-color: #e6dfde;
   }
   nav {
-    background-color: #272729;
+    background-color: #272729 !important;
   }
   .hero p {
     color: #fff;
