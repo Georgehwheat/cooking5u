@@ -37,6 +37,9 @@ font-family: 'Judson', serif;
   nav {
     background-color: #272729 !important;
   }
+  .paddingZero {
+    padding: 0;
+  }
   .hero p {
     color: #fff;
     line-height: 1.75em;
