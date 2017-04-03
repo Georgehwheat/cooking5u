@@ -1,5 +1,5 @@
 .hero {
-  background: url("../css/noodle.jpg") no-repeat center center;
+  background: url("../images/noodle.jpg") no-repeat center center;
   background-size: cover;
   height: 100vh; }
   .hero:before {
@@ -30,7 +30,7 @@
     text-align: center;
     margin-bottom: 2rem; }
   .hero .tech-img {
-    background: url("../css/noodle.jpg") no-repeat center center;
+    background: url("../images/noodle.jpg") no-repeat center center;
     background-size: cover;
     height: 9rem;
     width: 9rem;
