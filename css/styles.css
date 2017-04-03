@@ -31,6 +31,9 @@ font-family: 'Judson', serif;
     font-weight: 300;
     text-align: center; 
   }
+  .customColour1{
+    background-color: #e6dfde;
+  }
 
   .hero p {
     color: #fff;
