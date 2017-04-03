@@ -34,7 +34,9 @@ font-family: 'Judson', serif;
   .customColour1{
     background-color: #e6dfde;
   }
-
+  nav {
+    background-color: #272729;
+  }
   .hero p {
     color: #fff;
     line-height: 1.75em;
